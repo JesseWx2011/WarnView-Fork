@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     background-color: #222222; /* Updated background color */
     color: white;
     text-align: center;
@@ -29,7 +29,7 @@ body {
     color: white;
     border-radius: 5px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 1em;
     z-index: 1000;
     overflow: hidden;
