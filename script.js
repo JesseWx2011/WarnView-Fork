@@ -268,11 +268,11 @@ function updateWarningList(warnings) {
 
             // Manually set the background color based on event type
             if (eventName === "Winter Storm Warning") {
-                warningElement.style.backgroundColor = "rgb(255, 88, 233)";
+                warningElement.style.backgroundColor = "rgb(255, 0, 208)";
             } else if (eventName === "Winter Storm Watch") {
-                warningElement.style.backgroundColor = "rgb(0, 0, 255)";
+                warningElement.style.backgroundColor = "rgb(212, 0, 255)";
             } else if (eventName === "Winter Weather Advisory") {
-                warningElement.style.backgroundColor = "rgb(169, 81, 220)";
+                warningElement.style.backgroundColor = "rgb(184, 130, 255)";
             }
 
         } else {
